@@ -1,0 +1,1 @@
+UPDATE public.profiles SET name = 'Ts''', username = '00' WHERE id = 'main';

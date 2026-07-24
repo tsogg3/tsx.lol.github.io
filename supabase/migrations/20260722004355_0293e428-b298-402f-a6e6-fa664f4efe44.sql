@@ -1,0 +1,1 @@
+UPDATE public.profiles SET view_count = 1941 WHERE id = 'main';
